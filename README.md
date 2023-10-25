@@ -44,3 +44,6 @@ docker run --rm 470c7b2a3226
 ```
 
 where `470c7b2a3226` is the associated image ID.
+
+## License
+ZSSBG is subject to an MIT license 👍
