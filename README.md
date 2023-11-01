@@ -1,6 +1,6 @@
 # Zero-Shot Stochastic Byte Generator
 
-[<img src="https://github.com/nxfi777/ZSSBG/assets/127808926/028d7bad-4216-4ac3-aecc-c3896fe9a55b">](https://youtu.be/0od-NuK8J6Y)
+![Youtube](https://github.com/nxfi777/ZSSBG/assets/127808926/db713455-d330-448c-abd8-911d0f8f3841) [Video Demo](https://youtu.be/0od-NuK8J6Y)
 
 ## Overview
 This project explores the capacity of Large Language Models (LLMs), namely OpenAI's fast and capable gpt-3.5-turbo, to serve as a compelling substitute for conventional sources of randomness. The objective is to determine how effectively these AI models can rival both true random (derived from quantum events) and traditional algorithm-driven pseudo-random integer sequences. 
